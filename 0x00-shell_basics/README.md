@@ -25,3 +25,4 @@
     Only digits and letters are used to sort; Digits come first
 
 The listing ends with a new line
+school.mgc is a magic file that uses the file command to detect School data files.
