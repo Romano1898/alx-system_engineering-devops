@@ -1,0 +1,2 @@
+#!/bin/bash
+test ls_cwd__content && ls -la > ls_cwd_content
